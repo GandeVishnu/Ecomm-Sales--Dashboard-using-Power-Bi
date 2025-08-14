@@ -53,33 +53,10 @@ The dashboard allows interactive filtering by:
 
 - 📈 **Technology** is the leading category, contributing **~37.5%** of total sales.
 - 🌏 **APAC region** contributes the highest market sales at **$3.59M**.
-- 🇺🇸 The **US alone contributes** $2.30M in revenue (2nd highest).
+- 🇺🇸 The **US alone contributes** $2.30M in revenue (1st highest).
 - 🪑 **Furniture and Office Supplies** also hold significant shares.
 - 🛫 **Standard Class Shipping** is the preferred method, chosen for cost efficiency.
+- This data shows that the US, APAC and Technology categories are important for sales.
 - 🧾 Profitability remains healthy despite high shipping costs.
 
 ---
-
-## 📷 Dashboard Preview
-
-> *You can add a screenshot of your dashboard here:*
-
-```markdown
-![Dashboard Screenshot](ECOMM Sales --Dashboard.png)
-
-
-
-
-
-
-
-
-
-
-
-
- Outcome:
- The e-commerce data shows total sales of 12.64 million, with Technology having the highest sales at 4.74 million, followed by Furniture
- at 4.11 million. The US makes up 2.30 million in sales, while APAC leads with 3.59 million in sales. Standard Class shipping is the most
- popular, generating 7.58 million in sales, meaning customers prefer slower and cheaper shipping options. shipping costs of 1.35M, and
- the profit of 1.47M. This data shows that the US, APAC and Technology categories are important for sales.
