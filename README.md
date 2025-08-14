@@ -60,3 +60,12 @@ The dashboard allows interactive filtering by:
 - 🧾 Profitability remains healthy despite high shipping costs.
 
 ---
+
+
+## 📷 Dashboard Preview
+
+> *(Add an image to the `screenshots/` folder and replace the path below)*
+
+![Dashboard Screenshot](Ecomm-Sales--Dashboard.png)
+
+---
