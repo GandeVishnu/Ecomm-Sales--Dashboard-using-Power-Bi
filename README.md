@@ -65,7 +65,7 @@ The dashboard allows interactive filtering by:
 > *You can add a screenshot of your dashboard here:*
 
 ```markdown
-![Dashboard Screenshot](screenshots/ecomm-sales-dashboard.png)
+![Dashboard Screenshot](ECOMM Sales --Dashboard.png)
 
 
 
