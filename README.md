@@ -64,7 +64,6 @@ The dashboard allows interactive filtering by:
 
 ## 📷 Dashboard Preview
 
-> *(Add an image to the `screenshots/` folder and replace the path below)*
 
 ![Dashboard Screenshot](ecomm-sales-dashboard.png)
 
