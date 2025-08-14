@@ -66,6 +66,6 @@ The dashboard allows interactive filtering by:
 
 > *(Add an image to the `screenshots/` folder and replace the path below)*
 
-![Dashboard Screenshot](Ecomm-Sales--Dashboard.png)
+![Dashboard Screenshot](ecomm-sales-dashboard.png)
 
 ---
